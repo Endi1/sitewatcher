@@ -1,0 +1,58 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/Main.hs,282
+module Main Main1,2
+getInput getInput6,7
+getInput getInput7,8
+parseNewWebsiteQuestion parseNewWebsiteQuestion14,15
+parseNewWebsiteQuestion parseNewWebsiteQuestion15,16
+createWebsite createWebsite19,20
+createWebsite createWebsite20,21
+main main26,27
+main main27,28
+
+./src/Scraper.hs,238
+module Scraper Scraper2,3
+getRawWebsiteData getRawWebsiteData10,11
+getRawWebsiteData getRawWebsiteData11,12
+websiteBody websiteBody17,18
+websiteBody websiteBody18,19
+websiteHash websiteHash25,26
+websiteHash websiteHash26,27
+
+./src/Website.hs,1211
+data WebsiteField WebsiteField21,22
+data WebsiteField = WebsiteField WebsiteField21,22
+data WebsiteField = WebsiteField { i i21,22
+                                   u:u22,23
+                                   h:h23,24
+                                   lu:lu24,25
+data Parameter Parameter27,28
+data Parameter = Hash Hash27,28
+data Parameter = Hash Int | URL URL27,28
+data Website Website29,30
+data Website = Website Website29,30
+data Website = Website { url url29,30
+                         hash hash30,31
+                         last_updated last_updated31,32
+instance instance34,35
+tableCreateQuery tableCreateQuery38,39
+tableCreateQuery tableCreateQuery39,40
+createTable createTable41,42
+createTable createTable42,43
+getAllWebsites getAllWebsites46,47
+getAllWebsites getAllWebsites47,48
+insertWebsite insertWebsite53,54
+insertWebsite insertWebsite54,55
+newWebsite newWebsite63,64
+newWebsite newWebsite64,65
+findById findById71,72
+findById findById72,73
+checkIfUpdated checkIfUpdated79,80
+checkIfUpdated checkIfUpdated80,81
+getUpdatedWebsites getUpdatedWebsites86,87
+getUpdatedWebsites getUpdatedWebsites87,88
+find find91,92
+find find92,93
